@@ -1,0 +1,11 @@
+{
+  "login": {
+    "url": "/services/platon-auth/api/login",
+    "method": "POST",
+    "params": {
+      "username": "user51708047050027",
+      "password": "D89lf,.)X4'("
+    },
+    "body": {}
+  }
+}
